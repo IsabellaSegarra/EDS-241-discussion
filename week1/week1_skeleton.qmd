@@ -257,7 +257,7 @@ install.packages("beepr")
 library(praise)
 library(cowsay)
 library(beepr)
-say("All done making some beautiful tables! :) ", "owl"); beep(3)  
+say("All done making some beautiful tables! :) ", "endlesshorse"); beep(3)
 
 ```
 
