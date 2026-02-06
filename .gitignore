@@ -3,5 +3,7 @@
 .RData
 .Ruserdata
 
-# Add data to gitignore
-week*/data/
+
+
+# ignore any folder named `data/` within folders named `week*` (* acts as a wildcard)
+/week*/data/
