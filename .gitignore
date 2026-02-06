@@ -2,3 +2,6 @@
 .Rhistory
 .RData
 .Ruserdata
+
+# Add data to gitignore
+week*/data/
